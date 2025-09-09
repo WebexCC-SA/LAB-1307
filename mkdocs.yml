@@ -1,7 +1,7 @@
 ---
 site_name: "LAB-1307: Your ultimate guide to Webex Contact Center" # This must begin with the session ID, e.g. LABXXX-1234 This is my Cisco Live Lab
 site_description: "Your ultimate guide to Webex Contact Center" # must be same as "site_name"
-site_author: Susan Parrish
+site_author: Adam North
 copyright: Copyright &copy; 2025 Cisco
 theme:
   name: material

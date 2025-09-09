@@ -15,8 +15,8 @@ provided credentials
 <td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Channels</th></span>
 </tr>
 <tr>
-<td><p>In order for agents to receive calls, entry points need to be
-created to connect incoming calls to the appropriate flows</p>
+<td><span style="color: Cyan;"><p>In order for agents to receive calls, entry points need to be
+created to connect incoming calls to the appropriate flows</p></span>
 <p>Create Multiple Channel Entry Points</p>
 <p>Entry Point 1</p>
 <ul>
