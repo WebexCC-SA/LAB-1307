@@ -6,7 +6,7 @@ By the end of the lab, participants will:  
 
 1. Understand Webex Contact Center Services and how they interact with each other and create solutions across different industries.   
 
-2. Configure and optimize each wservice (Users, Voice, Digital, etc.) using Control Hub.   
+2. Configure and optimize each service (Users, Voice, Digital, etc.) using Control Hub.   
 
 3. Tailor the deployment to meet the needs of different personas and organizational roles.   
 

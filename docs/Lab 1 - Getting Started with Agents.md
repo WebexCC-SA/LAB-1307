@@ -1,7 +1,3 @@
-## Lab 1 - Getting Started with Agents
-
- Lab 1 – Agent Creation Part 1
-
 In this lab, you will log in to Control Hub (CH) and learn how to assign
 Webex Contact Center Licenses. Then you will create Skill Definitions,
 Skill Profiles and Multimedia Profiles
@@ -81,8 +77,7 @@ users.</p></li>
 <td><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Skill Profiles,</span></td>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Customer wants to be able to manipulate the individual
-skills for each agent</span></p>
+<td><p><span style="color: Cyan;">Each agent has a unique set of skills that helps determine how calls are routed to them</span></p>
 <p>Create Skill Profiles for 4 agents and 1 Supervisor</p>
 <ul>
 <p>Skill Profile Name: Eric Steele</p>
@@ -118,8 +113,7 @@ skills for each agent</span></p>
 <td><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Multimedia Profiles</span></td>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Customer wants agents to be able answer chats on an
-exclusive basis</span></p>
+<td><p><span style="color: Cyan;">Agents should handle only one chat at a time to ensure prompt responses. </span></p>
 <p>Create multimedia profile to be applied to agents</p>
 <ul>
 <li><p>Profile Name: Agent MMP</p></li>
@@ -135,9 +129,3 @@ exclusive basis</span></p>
 </figure>
 
 <center><span style="color: Red;"><strong>END OF LAB</strong></span></center>
-
-## Lab 2 - Getting Started with Agents
-
- Example
-
-In this lab, you will log in to Control Hub (CH) and learn how to assign

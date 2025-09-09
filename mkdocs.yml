@@ -86,7 +86,15 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
   - Overview: overview.md
-  - Activities: lab1_getting_started.md
+  - Activities: 
+        - Lab 1 - Getting Started with Agents: Lab 1 - Getting Started with Agents.md
+        - Lab 2 - Agent basics: Lab 2.md
+        - Lab 3 – Agent finalization: Lab 3.md
+        - Lab 4 – Flow Pre-Work: Lab 4.md
+        - Lab 5 – Flows: Lab 5.md
+        - Lab 6 – Channels and Testing Voice: Lab 6.md
+        - Lab 7 – Chat Flow Pre-Work: Lab 7.md
+        - Lab 8 – Chat Flow Creation and Testing: Lab 8.md
   - Wrap up: conclusion.md
   - How to use this guide:
       - Setting up and using the tool:
