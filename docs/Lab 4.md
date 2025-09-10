@@ -16,7 +16,7 @@ provided credentials
 Hours</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Agents should only be reached through queues during
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents should only be reached through queues during
 set hours</p></span>
 <p>Define Business Hours</p>
 <ul>
@@ -65,7 +65,7 @@ set hours</p></span>
 Queues</td></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Separate queues are needed for Support and Sales to
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Separate queues are needed for Support and Sales to
 ensure customer inquiries are routed to the appropriate team.</p></span>
 <p>Create two queues</p></td>
 </tr>

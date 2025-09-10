@@ -16,7 +16,7 @@ provided credentials
 Channel Assets-&gt;Websites</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Customer wants to make the chat template look good</p></span>
+<td><span style="color: Cyan;"><p>Use Case: Customer wants to make the chat template look good</p></span>
 <p>Edit the Chat Asset</p>
 <ul>
 <li><p>Add Website</p></li>
@@ -54,7 +54,7 @@ href="http://www.w3schools.com">www.w3schools.com</a></p></li>
 Service-&gt; Flows</td></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Customer wants to receive chats into the Contact Center</p></span>
+<td><span style="color: Cyan;"><p>Use Case: Customer wants to receive chats into the Contact Center</p></span>
 <p>Create a new Chat Flow</p>
 <ul>
 <li><p>Flow Name: Chat inbound</p></li>
@@ -97,7 +97,7 @@ href="http://www.w3schools.com">www.w3schools.com</a></p></li>
 <td><span style="color: greenyellow;">Control Hub-&gt; Management-&gt; Users</td></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Agent needs login credentials to receive chats</p></span>
+<td><span style="color: Cyan;"><p>Use Case: Agent needs login credentials to receive chats</p></span>
 <p>Copy details to use</p>
 <ul>
 <li><p>Name: Eric Steele (Overseas Team)</p></li>
@@ -115,7 +115,7 @@ href="https://desktop.wxcc-us1.cisco.com/">https://desktop.wxcc-us1.cisco.com/</
 <td><span style="color: greenyellow;">New Tab in Browser-&gt; www.w3schools.com</td></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>We need a way of simulating the customer website</p></span>
+<td><span style="color: Cyan;"><p>Use Case: We need a way of simulating the customer website</p></span>
 <p>HTML – Try it Yourself</p>
 <ul>
 <li><p>Paste copied installation code between &lt;p&gt;This is a
@@ -128,7 +128,7 @@ paragraph.&lt;/p&gt; and &lt;/body&gt;.</p></li>
 </table>
 <center><span style="color: Red;"><strong>STOP</strong></span></center>
 <figure markdown>
-  ![ACI](./assets/Stop.png)
+  ![Stop](./assets/Stop.png)
 </figure>
 
 <center><span style="color: Red;"><strong>END OF LAB</strong></span></center>

@@ -14,7 +14,7 @@ provided credentials
 <td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Each queue needs a specific flow to tailor the customer
+<td><span style="color: Cyan;"><p>Use Case: Each queue needs a specific flow to tailor the customer
 experience and make sure inquiries are handled according to the team’s
 processes</p></span>
 <p>Flow Number 1</p>
@@ -152,7 +152,7 @@ press 3.</p></td>
 <td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;">Link the activities together</p></span>
+<td colspan="2"><span style="color: Cyan;">Task: Link the activities together</p></span>
 </tr>
 <tr>
 <td><ul>
@@ -286,7 +286,7 @@ Please hold and we will be with you shortly.</td>
 <td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;">Link activities together</th></span>
+<td colspan="2"><span style="color: Cyan;">Task: Link activities together</th></span>
 </tr>
 <tr>
 <td><ul>
@@ -423,7 +423,7 @@ defaultmusic_on_hold_cisco_opus_no_1.wav</td>
 <td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;">Link activities together</th></span>
+<td><span style="color: Cyan;">Task: Link activities together</th></span>
 </tr>
 <tr>
 <td><ul>

@@ -17,7 +17,7 @@ provided credentials
 Profiles</td></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Agents should have access only to features necessary
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents should have access only to features necessary
 for their roles on their desktops</p></span>
 <p>Create an Agent Desktop Profile</p>
 <p><em>Reminder: If a setting is not listed in the task instructions,
@@ -68,7 +68,7 @@ leave default settings or skip</em></p></th>
 Users-&gt; Select User</td></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>All configured profiles must be assigned to each
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: All configured profiles must be assigned to each
 agent for them to take effect.</p></span>
 <p>Assign all previously created profiles to the agents</p></td>
 </tr>

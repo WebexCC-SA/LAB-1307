@@ -17,7 +17,7 @@ provided credentials
 licenses</span></td>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>In addition to standard voice communications, agents will support customers using digital channels. </p></span>
+<td><span style="color: Cyan;"><p>Use Case: In addition to standard voice communications, agents will support customers using digital channels. </p></span>
 <p>Assign Premium Agent licenses to all users </p>
 <ul>
 <li><p>License: Premium</p></li>
@@ -31,7 +31,7 @@ users.</p></li>
 <td><span style="color: greenyellow;">Management-&gt; Users<em>-&gt;</em> Anita Perez</span></td>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">In addition to Premium Agent access, Anita Perez will need to monitor and coach agents and access reporting and analytics </span></p>
+<td><p><span style="color: Cyan;">Use Case: In addition to Premium Agent access, Anita Perez will need to monitor and coach agents and access reporting and analytics </span></p>
 <p>Add Contact Center Supervisor to Anita Perez</p>
 <ul>
 <li><p>License: Premium Agent</p></li>
@@ -42,7 +42,7 @@ users.</p></li>
 <td rowspan="2">3.</td>
 <td><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Skill Definitions</span></td>
 </tr>
-<td><p><span style="color: Cyan;">Customer inquiries must be routed to the most qualified agents</span></p>
+<td><p><span style="color: Cyan;">Use Case: Customer inquiries must be routed to the most qualified agents</span></p>
 <p>Create several skills to be applied to agents</p>
 <p>
 </ul>
@@ -77,7 +77,7 @@ users.</p></li>
 <td><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Skill Profiles,</span></td>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Each agent has a unique set of skills that helps determine how calls are routed to them</span></p>
+<td><p><span style="color: Cyan;">Use Case: Each agent has a unique set of skills that helps determine how calls are routed to them</span></p>
 <p>Create Skill Profiles for 4 agents and 1 Supervisor</p>
 <ul>
 <p>Skill Profile Name: Eric Steele</p>
@@ -113,7 +113,7 @@ users.</p></li>
 <td><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Multimedia Profiles</span></td>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Agents should handle only one chat at a time to ensure prompt responses. </span></p>
+<td><p><span style="color: Cyan;">Use Case: Agents should handle only one chat at a time to ensure prompt responses. </span></p>
 <p>Create multimedia profile to be applied to agents</p>
 <ul>
 <li><p>Profile Name: Agent MMP</p></li>

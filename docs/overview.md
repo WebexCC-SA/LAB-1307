@@ -29,7 +29,7 @@ Login using the user account associated with your student number. Your student n
 ## Customer Scenario
 
 <figure markdown>
-  ![ACI](./assets/Logo.png)
+  ![Customer Scenario](./assets/Customer.gif)
 </figure>
 
 This guide outlines the steps for setting up Global Support Solutions (GSS), a fictional customer, within a lab environment. The scenario demonstrates the transition from traditional telephony to a cloud-based contact center utilizing Cisco solutions. 

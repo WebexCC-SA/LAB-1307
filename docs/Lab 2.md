@@ -16,7 +16,7 @@ provided credentials
 <td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Sites</span></td>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Supervisors and admins require a straightforward
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Supervisors and admins require a straightforward
 reporting solution for individual locations</p></span>
 <ul>
 <p>Create a site</p>
@@ -32,7 +32,7 @@ reporting solution for individual locations</p></span>
 <td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Teams</td></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Supervisors and admins need to easily manage and
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Supervisors and admins need to easily manage and
 streamline queue assignments for groups of agents.</p></span>
 <p>Create Teams for use in queues</p>
 <ul>
@@ -63,7 +63,7 @@ streamline queue assignments for groups of agents.</p></span>
 Layouts</td></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Agents need to use Webex on their desktops</p></span>
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents need to use Webex on their desktops</p></span>
 <p>Create a new desktop layout to use Webex</p>
 <ul>
 <li><p>Name: Company Layout</p>
@@ -90,7 +90,7 @@ to true</p></li>
 Books</td></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Agents and supervisors need to easily call the local
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents and supervisors need to easily call the local
 numbers they call on a regular basis</p></span>
 <p>Create an Address Book for agents to use</p>
 <ul>
@@ -110,7 +110,7 @@ numbers they call on a regular basis</p></span>
 Codes</td><span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Outcomes for each customer/agent interaction need to
+<td colspan="2"><span style="color: Cyan;"><p>Use Case: Outcomes for each customer/agent interaction need to
 be categorized and tracked for reporting and analysis</p></span>
 <p>Create codes for agent use after a call completes</p></td>
 </tr>

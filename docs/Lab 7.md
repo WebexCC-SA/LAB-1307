@@ -16,7 +16,7 @@ provided credentials
 Integrations</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Customer needs Digital channel integration enabled</p></span>
+<td><span style="color: Cyan;"><p>Use Case: Customer needs Digital channel integration enabled</p></span>
 <p>Authorize Webex CC Tasks and Webex CC Engage</p>
 <ul>
 <li><p>Webex CC Tasks: Manage</p>
@@ -38,7 +38,7 @@ Integrations</th></span>
 Apps</td></span>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Customer needs an ability to route chats.</p></span>
+<td><p><span style="color: Cyan;">Use Case: Customer needs an ability to route chats.</p></span>
 <p>Create a Chat Asset</p>
 <ul>
 <li><p>New App: Mobile/Web</p></li>
@@ -60,7 +60,7 @@ Apps</td></span>
 <td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience -&gt; Queues</td></span>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Customer wants a queue created</p></span>
+<td><p><span style="color: Cyan;">Use Case: Customer wants a queue created</p></span>
 <p>Create a queue</p>
 <ul>
 <li><p>Queue Name: Chat Q</p></li>
@@ -79,7 +79,7 @@ Apps</td></span>
 <td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience -&gt; Channels</td></span>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Customer wants to receive chats into the Contact Center</p></span>
+<td><p><span style="color: Cyan;">Use Case: Customer wants to receive chats into the Contact Center</p></span>
 <p>Create a Channel Entry Point</p>
 <ul>
 <li><p>Name: Chat Entry</p></li>

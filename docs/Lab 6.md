@@ -15,7 +15,7 @@ provided credentials
 <td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Channels</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>In order for agents to receive calls, entry points need to be
+<td><span style="color: Cyan;"><p>Use Case: In order for agents to receive calls, entry points need to be
 created to connect incoming calls to the appropriate flows</p></span>
 <p>Create Multiple Channel Entry Points</p>
 <p>Entry Point 1</p>
@@ -92,7 +92,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <td><span style="color: greenyellow;">Control Hub-&gt; Management-&gt; Users-&gt; Eric Steele</td></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Login as an agent to make a test call</p></span>
+<td><span style="color: Cyan;"><p>Use Case: Login as an agent to make a test call</p></span>
 <ul>
 <li><p>Copy email address for Eric Steele (Overseas Team)</p></li>
 <li><p>Open new browser; NOT a new tab, a different browser</p>
