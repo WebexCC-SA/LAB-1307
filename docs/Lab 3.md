@@ -40,6 +40,7 @@ leave default settings or skip</em></p></th>
 </ul></li>
 <li><p>Wrap-up Codes: all</p></li>
 <li><p>Idle Codes: All</p></li>
+<a href="https://help.webex.com/en-us/article/nvaf71f/Manage-desktop-profiles">Help Page</a>
 </ul></li>
 </ul></th>
 <td><ul>
@@ -93,6 +94,7 @@ agent for them to take effect.</p></span>
 <li><p>Desktop Profile: Company Desktop Profile</p></li>
 <li><p>Multimedia Profile: Agent MMP</p></li>
 <li><p>Skill Profile: Relevant named profile</p></li>
+<a href="https://help.webex.com/en-us/article/n524f2m/Manage-user-profiles-of-contact-center-users-in-Webex-Contact-Center">Help Page</a>
 </ul></li>
 </ul></td>
 <td><ul>

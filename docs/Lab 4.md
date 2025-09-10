@@ -54,6 +54,7 @@ set hours</p></span>
 </ul></li>
 <li><p>Holiday List: Holidays</p></li>
 <li><p>Overrides: Emergencies</p></li>
+<a href="https://help.webex.com/en-us/article/dqekw4/Set-up-business-hours-for-Webex-Contact-Center">Help Page</a>
 </ul></li>
 </ul></th>
 </tr>
@@ -89,6 +90,7 @@ ensure customer inquiries are routed to the appropriate team.</p></span>
 <li><p>Service Level Threshold: 120</p></li>
 <li><p>Max time in Queue: 3600</p></li>
 <li><p>Music In Queue: defaultmusic_on_hold_cisco_opus</p></li>
+<a href="https://help.webex.com/en-us/article/np2fdx/Understand-Routing-and-Queueing-in-Webex-Contact-Center">Help Page</a>
 </ul></li>
 </ul></td>
 <td><p>Queue Name: Sales Q</p>

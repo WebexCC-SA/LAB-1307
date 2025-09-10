@@ -28,6 +28,7 @@ Integrations</th></span>
 <ul>
 <li><p>Add Authentication: Cholland email</p></li>
 </ul></li>
+<a href="https://help.webexconnect.io/docs/wxcc-node-palette#node-authorization">Help Page</a>
 </ul></th>
 </tr>
 </thead>
@@ -53,6 +54,7 @@ Apps</td></span>
 <ul>
 <li><p>Register to Webex Engage: My First Service</p></li>
 <li><p>On Apps main Page: Copy and Save App ID</p></li>
+<a href="https://help.webexconnect.io/docs/wxcc-channel-assset-configuration-wxcc">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -72,6 +74,7 @@ Apps</td></span>
 </ul></li>
 <li><p>Service Level Threshold: 7200</p></li>
 <li><p>Max time in Queue: 80100</p></li>
+<a href="https://help.webex.com/en-us/article/np2fdx/Understand-Routing-and-Queueing-in-Webex-Contact-Center">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -87,6 +90,7 @@ Apps</td></span>
 <li><p>Asset Name: Chat_Asset</p></li>
 <li><p>Service Level: 7200</p></li>
 <li><p>Timezone: NewYork</p></li>
+<a href="https://help.webex.com/en-us/article/n954r0k/Set-up-digital-channels-in-Webex-Contact-Center">Help Page</a>
 </ul></td>
 </tr>
 </tbody>

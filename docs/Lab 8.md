@@ -44,6 +44,7 @@ href="http://www.w3schools.com">www.w3schools.com</a></p></li>
 </ul>
 <li><p>Select Installation</p></li>
 <li><p>Copy then save installation code</p></li>
+<a href="https://help.webex.com/en-us/article/otcepj/Webex-Engage-Admin-and-Setup-Guide">Help Page</a>
 </ul></th>
 </tr>
 </thead>
@@ -90,6 +91,7 @@ href="http://www.w3schools.com">www.w3schools.com</a></p></li>
 </ul>
 <li><p>Make Live</p></li>
 <li><p>Application: Chat_Asset</p></li>
+<a href="https://help.webexconnect.io/docs/flows">Help Page</a>
 </ul></td>
 </tr>
 <tr>

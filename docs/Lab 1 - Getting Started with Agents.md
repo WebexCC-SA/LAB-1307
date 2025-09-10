@@ -5,6 +5,7 @@ Skill Profiles and Multimedia Profiles
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+
 <table>
 <colgroup>
 <col style="width: 5%" />
@@ -24,6 +25,7 @@ licenses</span></td>
 <li><p>Apply scope: Existing users, preserve licenses for existing
 users.</p></li>
 <li><p><em>Spot check any user to ensure they have a Premium Agent license</em></p></li>
+<a href="https://help.webex.com/en-us/article/n3ijtao/Set-up-automatic-license-assignments-in-Control-Hub">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -36,6 +38,7 @@ users.</p></li>
 <ul>
 <li><p>License: Premium Agent</p></li>
 <li><p>Add Supervisor Role</p></li>
+<a href="https://help.webex.com/en-us/article/9dmqgv/Edit-service-licenses-in-Control-Hub-for-individual-users">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -70,6 +73,7 @@ users.</p></li>
 <ol>
 <li>Skill Type: Boolean</li>
 </ol>
+<a href="https://help.webex.com/en-us/article/6rzxls/Manage-skill-definitions-in-Webex-Contact-Center">Help Page</a>
 </ul></p></td>
 </tr>
 <tr>
@@ -106,6 +110,7 @@ users.</p></li>
 <li><p>Skill: Moves - True</p></li>
 <li><p>Skill: Overseas - True</p></li>
 <li><p>Skill: Support – True</p></li>
+<a href="https://help.webex.com/en-us/article/arzaac/Manage-skill-profile-in-Webex-Contact-Center">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -119,6 +124,7 @@ users.</p></li>
 <li><p>Profile Name: Agent MMP</p></li>
 <li><p>Type: Exclusive</p></li>
 <li><p>Voice and Chat only selected</p></li>
+<a href="https://help.webex.com/en-us/article/nje7dhdb/Manage-multimedia-profiles">Help Page</a>
 </ul></td>
 </tr>
 </tbody>

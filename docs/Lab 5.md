@@ -22,6 +22,7 @@ processes</p></span>
 <li><p>Name: CompanyFlow</p></li>
 <li><p>Add the following Activities to the canvas</p></li>
 <li><p>Do NOT connect the Activities until instructed</p></li>
+<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer">Help Page</a>
 </ul></th>
 </tr>
 </thead>
@@ -218,6 +219,7 @@ press 3.</p></td>
 <li><p>Name: OverseasFlow</p></li>
 <li><p>Add the following Activities to the canvas</p></li>
 <li><p>Do NOT connect the Activities until instructed</p></li>
+<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer">Help Page</a>
 </ul></th>
 </tr>
 </thead>

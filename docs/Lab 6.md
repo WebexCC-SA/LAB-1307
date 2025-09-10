@@ -34,6 +34,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Number: Any (Make a note of this number for later!)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
+<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center">Help Page</a>
 </ul></li>
 </ul></th>
 </tr>
@@ -60,6 +61,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Number: Any (Make a note of this number for later)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
+<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center">Help Page</a>
 </ul></li>
 </ul></td>
 </tr>
@@ -84,6 +86,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Number: Any (Make a note of this number for later)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
+<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center">Help Page</a>
 </ul></li>
 </ul></td>
 </tr>

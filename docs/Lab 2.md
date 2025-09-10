@@ -23,6 +23,7 @@ reporting solution for individual locations</p></span>
 <ul>
 <li><p>Name: Company HQ</p></li>
 <li><p>MultiMedia Profile: Agent MMP</p></li>
+<a href="https://help.webex.com/en-us/article/nqipixt/Manage-sites-in-Webex-Contact-Center">Help Page</a>
 </ul></td>
 </tr>
 </thead>
@@ -48,6 +49,7 @@ streamline queue assignments for groups of agents.</p></span>
 <li><p>Parent Site: Company HQ</p></li>
 <li><p>Team Type: Agent Based</p></li>
 </ul></li>
+<a href="https://help.webex.com/en-us/article/mqf72s/Manage-teams-in-Webex-Contact-Center">Help Page</a>
 </ul></td>
 <td><ul>
 <li><p>Name: Sales Team</p>
@@ -82,6 +84,7 @@ to true</p></li>
 </li>
 <li><p>Make sure to click Create</p></li>
 </ul></li>
+<a href="https://help.webex.com/en-us/article/60x9ji/Manage-desktop-layouts">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -102,6 +105,7 @@ numbers they call on a regular basis</p></span>
 <li><p>Name: Joes Pizza</p></li>
 <li><p>Contact Number: 2406568923</p></li>
 </ul></li>
+<a href="https://help.webex.com/en-us/">Help Page</a>
 </ul></td>
 </tr>
 <tr>
@@ -121,6 +125,7 @@ be categorized and tracked for reporting and analysis</p></span>
 <li><p>Code type: Default Wrap-up Work Type</p>
 <p>Name: Service</p></li>
 <li><p>Code type: Default Wrap-up Work Type</p></li>
+<a href="https://help.webex.com/en-us/">Help Page</a>
 </ul></td>
 <td><p>Name: Sales</p>
 <ul>
