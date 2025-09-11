@@ -6,6 +6,9 @@ URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
 
+  [Click Here to see the Presentation](./Lab1.html){:target="_blank"}
+
+Instructions:
 <table>
 <colgroup>
 <col style="width: 5%" />
@@ -13,75 +16,75 @@ provided credentials
 </colgroup>
 <thead>
 <tr>
-<th rowspan="2">1.</th>
-<td><span style="color: greenyellow;">Management-&gt; Users<em>-&gt;</em> Licenses-&gt; Organization-based
-licenses</span></td>
+<td rowspan="2">1.</td>
+<th><span style="color:#00CC66;">Management-&gt; Users<em>-&gt;</em> Licenses-&gt; Organization-based
+licenses</span></th>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: In addition to standard voice communications, agents will support customers using digital channels. </p></span>
+<td><span style="color:#FF0099;"><p>Use Case: In addition to standard voice communications, agents will support customers using digital channels. </p></span>
 <p>Assign Premium Agent licenses to all users </p>
 <ul>
 <li><p>License: Premium</p></li>
 <li><p>Apply scope: Existing users, preserve licenses for existing
 users.</p></li>
 <li><p><em>Spot check any user to ensure they have a Premium Agent license</em></p></li>
-<a href="https://help.webex.com/en-us/article/n3ijtao/Set-up-automatic-license-assignments-in-Control-Hub">Help Page</a>
+<a href="https://help.webex.com/en-us/article/n3ijtao/Set-up-automatic-license-assignments-in-Control-Hub" target="_blank">Help Page</a>
 </ul></td>
 </tr>
 <tr>
 <td rowspan="2">2.</td>
-<td><span style="color: greenyellow;">Management-&gt; Users<em>-&gt;</em> Anita Perez</span></td>
+<th><span style="color:#00CC66;">Management-&gt; Users<em>-&gt;</em> Anita Perez</span></th>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Use Case: In addition to Premium Agent access, Anita Perez will need to monitor and coach agents and access reporting and analytics </span></p>
+<td><span style="color:#FF0099;"><p>Use Case: In addition to Premium Agent access, Anita Perez will need to monitor and coach agents and access reporting and analytics</p></span>
 <p>Add Contact Center Supervisor to Anita Perez</p>
 <ul>
 <li><p>License: Premium Agent</p></li>
 <li><p>Add Supervisor Role</p></li>
-<a href="https://help.webex.com/en-us/article/9dmqgv/Edit-service-licenses-in-Control-Hub-for-individual-users">Help Page</a>
+<a href="https://help.webex.com/en-us/article/9dmqgv/Edit-service-licenses-in-Control-Hub-for-individual-users" target="_blank">Help Page</a>
 </ul></td>
 </tr>
 <tr>
 <td rowspan="2">3.</td>
-<td><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Skill Definitions</span></td>
+<th><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Skill Definitions</span></th>
 </tr>
-<td><p><span style="color: Cyan;">Use Case: Customer inquiries must be routed to the most qualified agents</span></p>
+<td><p><span style="color:#FF0099;">Use Case: Customer inquiries must be routed to the most qualified agents</span></p>
 <p>Create several skills to be applied to agents</p>
 <p>
 </ul>
 <li>Skill Name: Changes</li>
-<ol>
+<ul>
 <li>Skill Type: Proficiency</li>
-</ol>
+</ul>
 </ul>
 <li>Skill Name: Adds</li>
-<ol>
+<ul>
 <li>Skill Type: Boolean</li>
-</ol>
+</ul>
 </ul>
 <li>Skill Name: Moves</li>
-<ol>
+<ul>
 <li>Skill Type: Boolean</li>
-</ol>
+</ul>
 </ul>
 <li>Skill Name: Changes</li>
-<ol>
+<ul>
 <li>Skill Type: Boolean</li>
-</ol>
+</ul>
 </ul>
 <li>Skill Name: Overseas</li>
-<ol>
+<ul>
 <li>Skill Type: Boolean</li>
-</ol>
-<a href="https://help.webex.com/en-us/article/6rzxls/Manage-skill-definitions-in-Webex-Contact-Center">Help Page</a>
+</ul>
+<a href="https://help.webex.com/en-us/article/6rzxls/Manage-skill-definitions-in-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></p></td>
 </tr>
 <tr>
 <td rowspan="2">4.</td>
-<td><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Skill Profiles,</span></td>
+<th><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Skill Profiles,</span></th>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Use Case: Each agent has a unique set of skills that helps determine how calls are routed to them</span></p>
+<td><p><span style="color:#FF0099;">Use Case: Each agent has a unique set of skills that helps determine how calls are routed to them</span></p>
 <p>Create Skill Profiles for 4 agents and 1 Supervisor</p>
 <ul>
 <p>Skill Profile Name: Eric Steele</p>
@@ -110,25 +113,26 @@ users.</p></li>
 <li><p>Skill: Moves - True</p></li>
 <li><p>Skill: Overseas - True</p></li>
 <li><p>Skill: Support – True</p></li>
-<a href="https://help.webex.com/en-us/article/arzaac/Manage-skill-profile-in-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/arzaac/Manage-skill-profile-in-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></td>
 </tr>
 <tr>
 <td rowspan="2">5.</td>
-<td><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Multimedia Profiles</span></td>
+<th><span style="color:#00CC66;">Contact Center-&gt; Desktop Experience-&gt; Multimedia Profiles</span></th>
 </tr>
 <tr>
-<td><p><span style="color: Cyan;">Use Case: Agents should handle only one chat at a time to ensure prompt responses. </span></p>
+<td><p><span style="color:#FF0099;">Use Case: Agents should handle only one chat at a time to ensure prompt responses. </span></p>
 <p>Create multimedia profile to be applied to agents</p>
 <ul>
 <li><p>Profile Name: Agent MMP</p></li>
 <li><p>Type: Exclusive</p></li>
 <li><p>Voice and Chat only selected</p></li>
-<a href="https://help.webex.com/en-us/article/nje7dhdb/Manage-multimedia-profiles">Help Page</a>
+<a href="https://help.webex.com/en-us/article/nje7dhdb/Manage-multimedia-profiles" target="_blank">Help Page</a>
 </ul></td>
 </tr>
 </tbody>
 </table>
+
 <center><span style="color: Red;"><strong>STOP</strong></span></center>
 <figure markdown>
   ![ACI](./assets/Stop.png)

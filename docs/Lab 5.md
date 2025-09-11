@@ -3,6 +3,10 @@ In this lab, you will learn how to create flows for queues.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+[Click Here to see the Presentation](./Lab5.html){:target="_blank"}
+
+Instructions:
+
 <table>
 <colgroup>
 <col style="width: 5%" />
@@ -11,10 +15,10 @@ provided credentials
 <thead>
 <tr>
 <th rowspan="2">1.a.</th>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: Each queue needs a specific flow to tailor the customer
+<td><span style="color:#FF0099;"><p>Use Case: Each queue needs a specific flow to tailor the customer
 experience and make sure inquiries are handled according to the team’s
 processes</p></span>
 <p>Flow Number 1</p>
@@ -22,7 +26,7 @@ processes</p></span>
 <li><p>Name: CompanyFlow</p></li>
 <li><p>Add the following Activities to the canvas</p></li>
 <li><p>Do NOT connect the Activities until instructed</p></li>
-<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer">Help Page</a>
+<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer" target="_blank">Help Page</a>
 </ul></th>
 </tr>
 </thead>
@@ -44,14 +48,14 @@ processes</p></span>
 </thead>
 <tbody>
 <tr>
-<td rowspan="2"><span style="color: gold;">Business Hours</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Business Hours</th></span>
 <td colspan="2">Title: Business Hours</td>
 </tr>
 <tr>
 <td colspan="2">Static Business Hours: Work Week</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Play Message</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Play Message</th></span>
 <td colspan="2">Title: Welcome</td>
 </tr>
 <tr>
@@ -60,7 +64,7 @@ processes</p></span>
 <td>Text: Welcome to Global Support Solutions</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Menu</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Menu</th></span>
 <td colspan="2">Title: Menu 1</td>
 </tr>
 <tr>
@@ -74,7 +78,7 @@ processes</p></span>
 <p>2 = Service</p></td>
 </tr>
 <tr>
-<td><span style="color: gold;">Menu</td></span>
+<th><span style="color:#FF9900;">Menu</th></span>
 <td colspan="2">Title: Menu 2</td>
 </tr>
 <tr>
@@ -90,14 +94,14 @@ press 3.</p></td>
 <p>3 = Changes</p></td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Blind Transfer</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
 <td colspan="2">Title: ToVmail</td>
 </tr>
 <tr>
 <td colspan="2">Specific Number to Dial: 5000</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Queue Contact</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
 <td colspan="2">Title: SupportQ</td>
 </tr>
 <tr>
@@ -106,7 +110,7 @@ press 3.</p></td>
 <td>Skill: Support is True</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Queue Contact</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
 <td colspan="2">Title: AddQ</td>
 </tr>
 <tr>
@@ -114,7 +118,7 @@ press 3.</p></td>
 <td>Skill: Add is True</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Queue Contact</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
 <td colspan="2">Title: Move Q</td>
 </tr>
 <tr>
@@ -122,7 +126,7 @@ press 3.</p></td>
 <td>Skill: Move is True</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Queue Contact</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
 <td colspan="2">Title: Changes Q</td>
 </tr>
 <tr>
@@ -130,7 +134,7 @@ press 3.</p></td>
 <td>Skill: Changes &gt;= 4</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Play Music</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Play Music</th></span>
 <td colspan="2">Title: PlayMusic</td>
 </tr>
 <tr>
@@ -150,10 +154,10 @@ press 3.</p></td>
 <thead>
 <tr>
 <td rowspan="4">1.b.</th>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;">Task: Link the activities together</p></span>
+<td colspan="2"><span style="color:#FF0099;">Task: Link the activities together</p></span>
 </tr>
 <tr>
 <td><ul>
@@ -212,19 +216,21 @@ press 3.</p></td>
 </colgroup>
 <thead>
 <tr>
-<td rowspan="2">2.a.</th>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
-<p>Flow Number 2</p>
+<td rowspan="2">2.a.</td>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+</tr>
+<tr>
+<td><p>Flow Number 2</p>
 <ul>
 <li><p>Name: OverseasFlow</p></li>
 <li><p>Add the following Activities to the canvas</p></li>
 <li><p>Do NOT connect the Activities until instructed</p></li>
-<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer">Help Page</a>
+<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer" target="_blank">Help Page</a>
 </ul></th>
 </tr>
 </thead>
-<tbody>
-</tbody>
+<body>
+</body>
 </table>
 
 <table>
@@ -241,14 +247,14 @@ press 3.</p></td>
 </thead>
 <tbody>
 <tr>
-<td rowspan="2"><span style="color: gold;">Business Hours</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Business Hours</th></span>
 <td colspan="2">Title: Business Hours</td>
 </tr>
 <tr>
 <td colspan="2">Static Business Hours: Work Week</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Play Message</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Play Message</th></span>
 <td colspan="2">Title: Welcome</td>
 </tr>
 <tr>
@@ -258,14 +264,14 @@ press 3.</p></td>
 Please hold and we will be with you shortly.</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Blind Transfer</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
 <td colspan="2">Title: ToVmail</td>
 </tr>
 <tr>
 <td colspan="2">Specific Number to Dial: 5000</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Play Music</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Play Music</th></span>
 <td colspan="2">Title: PlayMusic</td>
 </tr>
 <tr>
@@ -285,10 +291,10 @@ Please hold and we will be with you shortly.</td>
 <thead>
 <tr>
 <th rowspan="4">2.b.</th>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;">Task: Link activities together</th></span>
+<td colspan="2"><span style="color:#FF0099;">Task: Link activities together</th></span>
 </tr>
 <tr>
 <td><ul>
@@ -333,7 +339,7 @@ Please hold and we will be with you shortly.</td>
 <thead>
 <tr>
 <th rowspan="2">3.a.</th>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
 <td><p>Flow Number 3</p>
@@ -341,6 +347,7 @@ Please hold and we will be with you shortly.</td>
 <li><p>Name: SalesFlow</p></li>
 <li><p>Add the following Activities to the canvas</p></li>
 <li><p>Do NOT connect the Activities until instructed</p></li>
+<a href="https://help.webex.com/en-us/article/nhovcy4/Flow-Designer" target="_blank">Help Page</a>
 </ul></th>
 </tr>
 </thead>
@@ -363,14 +370,14 @@ Please hold and we will be with you shortly.</td>
 </thead>
 <tbody>
 <tr>
-<td rowspan="2"><span style="color: gold;">Business Hours</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Business Hours</th></span>
 <td colspan="3">Title: Business Hours</td>
 </tr>
 <tr>
 <td colspan="3">Static Business Hours: Work Week</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Play Message</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Play Message</th></span>
 <td colspan="3">Title: Welcome</td>
 </tr>
 <tr>
@@ -380,14 +387,14 @@ Please hold and we will be with you shortly.</td>
 We will be with you shortly</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Blind Transfer</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
 <td colspan="3">Title: ToVmail</td>
 </tr>
 <tr>
 <td colspan="3">Specific Number to Dial: 5000</td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Queue Contact</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
 <td colspan="3">Title: SalesQ</td>
 </tr>
 <tr>
@@ -395,7 +402,7 @@ We will be with you shortly</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Play Music</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Play Music</th></span>
 <td colspan="3">Title: PlayMusic</td>
 </tr>
 <tr>
@@ -405,7 +412,7 @@ defaultmusic_on_hold_cisco_opus_no_1.wav</td>
 <p>Music Duration: 3600</p></td>
 </tr>
 <tr>
-<td rowspan="2"><span style="color: gold;">Blind Transfer</td></span>
+<th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
 <td colspan="3">Title: ToVmail</td>
 </tr>
 <tr>
@@ -422,10 +429,10 @@ defaultmusic_on_hold_cisco_opus_no_1.wav</td>
 <thead>
 <tr>
 <th rowspan="4">3.b.</th>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;">Task: Link activities together</th></span>
+<td><span style="color:#FF0099;">Task: Link activities together</th></span>
 </tr>
 <tr>
 <td><ul>

@@ -4,6 +4,10 @@ Address Books and Auxiliary Codes.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+[Click Here to see the Presentation](./Lab2.html){:target="_blank"}
+
+Instructions:
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -12,45 +16,44 @@ provided credentials
 </colgroup>
 <thead>
 <tr>
-<th rowspan="2">1.</th>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Sites</span></td>
+<td rowspan="2">1.</td>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Sites</span></th>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Supervisors and admins require a straightforward
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Supervisors and admins require a straightforward
 reporting solution for individual locations</p></span>
 <ul>
 <p>Create a site</p>
 <ul>
 <li><p>Name: Company HQ</p></li>
 <li><p>MultiMedia Profile: Agent MMP</p></li>
-<a href="https://help.webex.com/en-us/article/nqipixt/Manage-sites-in-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/nqipixt/Manage-sites-in-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></td>
 </tr>
-</thead>
-<tbody>
+<td>
 <tr>
 <td rowspan="3">2.</td>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Teams</td></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Teams</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Supervisors and admins need to easily manage and
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Supervisors and admins need to easily manage and
 streamline queue assignments for groups of agents.</p></span>
 <p>Create Teams for use in queues</p>
-<ul>
 <tr>
 <td><ul>
-<li><p>Name: Company Team</p>
+<li><p>Name: Company Team</p></li>
 <ul>
 <li><p>Parent Site: Company HQ</p></li>
 <li><p>Team Type: Agent Based</p></li>
 </ul></li>
-<li><p>Name: Overseas Team</p>
+<li><p>Name: Overseas Team</p></li>
 <ul>
 <li><p>Parent Site: Company HQ</p></li>
 <li><p>Team Type: Agent Based</p></li>
 </ul></li>
-<a href="https://help.webex.com/en-us/article/mqf72s/Manage-teams-in-Webex-Contact-Center">Help Page</a>
-</ul></td>
+<a href="https://help.webex.com/en-us/article/mqf72s/Manage-teams-in-Webex-Contact-Center" target="_blank">Help Page</a>
+</ul></li>
+</ul></th>
 <td><ul>
 <li><p>Name: Sales Team</p>
 <ul>
@@ -61,11 +64,11 @@ streamline queue assignments for groups of agents.</p></span>
 </tr>
 <tr>
 <td rowspan="2">3.</td>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Desktop
-Layouts</td></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Desktop Experience-&gt; Desktop
+Layouts</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents need to use Webex on their desktops</p></span>
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Agents need to use Webex on their desktops</p></span>
 <p>Create a new desktop layout to use Webex</p>
 <ul>
 <li><p>Name: Company Layout</p>
@@ -84,16 +87,16 @@ to true</p></li>
 </li>
 <li><p>Make sure to click Create</p></li>
 </ul></li>
-<a href="https://help.webex.com/en-us/article/60x9ji/Manage-desktop-layouts">Help Page</a>
+<a href="https://help.webex.com/en-us/article/60x9ji/Manage-desktop-layouts" target="_blank">Help Page</a>
 </ul></td>
 </tr>
 <tr>
 <td rowspan="2">4.</td>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Address
-Books</td></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Desktop Experience-&gt; Address
+Books</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents and supervisors need to easily call the local
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Agents and supervisors need to easily call the local
 numbers they call on a regular basis</p></span>
 <p>Create an Address Book for agents to use</p>
 <ul>
@@ -110,11 +113,11 @@ numbers they call on a regular basis</p></span>
 </tr>
 <tr>
 <td rowspan="3">5.</td>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Idle/Wrap-up
-Codes</td><span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Desktop Experience-&gt; Idle/Wrap-up
+Codes</th><span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Outcomes for each customer/agent interaction need to
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Outcomes for each customer/agent interaction need to
 be categorized and tracked for reporting and analysis</p></span>
 <p>Create codes for agent use after a call completes</p></td>
 </tr>

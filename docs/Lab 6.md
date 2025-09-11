@@ -4,6 +4,10 @@ receive a call on an Agent Desktop.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+[Click Here to see the Presentation](./Lab6.html){:target="_blank"}
+
+Instructions:
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -12,10 +16,10 @@ provided credentials
 <thead>
 <tr>
 <th rowspan="2">1.</th>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Channels</th></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Channels</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: In order for agents to receive calls, entry points need to be
+<td><span style="color:#FF0099;"><p>Use Case: In order for agents to receive calls, entry points need to be
 created to connect incoming calls to the appropriate flows</p></span>
 <p>Create Multiple Channel Entry Points</p>
 <p>Entry Point 1</p>
@@ -34,7 +38,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Number: Any (Make a note of this number for later!)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
-<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></li>
 </ul></th>
 </tr>
@@ -42,7 +46,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <tbody>
 <tr>
 <td rowspan="2">2.</td>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Channels</td></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Channels</th></span>
 </tr>
 <tr>
 <td><p>Entry Point 2</p>
@@ -61,13 +65,13 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Number: Any (Make a note of this number for later)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
-<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></li>
 </ul></td>
 </tr>
 <tr>
 <td rowspan="2">3.</td>
-<td><span style="color: greenyellow;">Contact Center-&gt; Customer Experience-&gt; Channels</td></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Channels</th></span>
 </tr>
 <tr>
 <td><p>Entry Point 3</p>
@@ -86,16 +90,16 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Number: Any (Make a note of this number for later)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
-<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/2dputx/Set-up-voice-channels-for-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></li>
 </ul></td>
 </tr>
 <tr>
 <td rowspan="2">4.</td>
-<td><span style="color: greenyellow;">Control Hub-&gt; Management-&gt; Users-&gt; Eric Steele</td></span>
+<th><span style="color:#00CC66;">Control Hub-&gt; Management-&gt; Users-&gt; Eric Steele</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: Login as an agent to make a test call</p></span>
+<td><span style="color:#FF0099;"><p>Use Case: Login as an agent to make a test call</p></span>
 <ul>
 <li><p>Copy email address for Eric Steele (Overseas Team)</p></li>
 <li><p>Open new browser; NOT a new tab, a different browser</p>

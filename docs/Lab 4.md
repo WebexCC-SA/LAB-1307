@@ -3,6 +3,10 @@ In this lab, you will learn how to create Queues and Business Hours.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+[Click Here to see the Presentation](./Lab4.html){:target="_blank"}
+
+Instructions:
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -12,11 +16,11 @@ provided credentials
 <thead>
 <tr>
 <th rowspan="2">1.</th>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Customer Experience -&gt; Business
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Customer Experience -&gt; Business
 Hours</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents should only be reached through queues during
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Agents should only be reached through queues during
 set hours</p></span>
 <p>Define Business Hours</p>
 <ul>
@@ -54,7 +58,7 @@ set hours</p></span>
 </ul></li>
 <li><p>Holiday List: Holidays</p></li>
 <li><p>Overrides: Emergencies</p></li>
-<a href="https://help.webex.com/en-us/article/dqekw4/Set-up-business-hours-for-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/dqekw4/Set-up-business-hours-for-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></li>
 </ul></th>
 </tr>
@@ -62,11 +66,11 @@ set hours</p></span>
 <tbody>
 <tr>
 <td rowspan="3">2.</td>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Customer Experience -&gt;
-Queues</td></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Customer Experience -&gt;
+Queues</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Separate queues are needed for Support and Sales to
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Separate queues are needed for Support and Sales to
 ensure customer inquiries are routed to the appropriate team.</p></span>
 <p>Create two queues</p></td>
 </tr>
@@ -90,7 +94,7 @@ ensure customer inquiries are routed to the appropriate team.</p></span>
 <li><p>Service Level Threshold: 120</p></li>
 <li><p>Max time in Queue: 3600</p></li>
 <li><p>Music In Queue: defaultmusic_on_hold_cisco_opus</p></li>
-<a href="https://help.webex.com/en-us/article/np2fdx/Understand-Routing-and-Queueing-in-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/np2fdx/Understand-Routing-and-Queueing-in-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></li>
 </ul></td>
 <td><p>Queue Name: Sales Q</p>

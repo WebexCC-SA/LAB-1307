@@ -4,6 +4,10 @@ all profiles to an Agent/Supervisor.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+[Click Here to see the Presentation](./Lab3.html){:target="_blank"}
+
+Instructions:
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -12,17 +16,16 @@ provided credentials
 </colgroup>
 <thead>
 <tr>
-<th rowspan="3">1.</th>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; Desktop Experience-&gt; Desktop
-Profiles</td></span>
+<td rowspan="3">1.</td>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; Desktop Experience-&gt; Desktop
+Profiles</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: Agents should have access only to features necessary
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: Agents should have access only to features necessary
 for their roles on their desktops</p></span>
 <p>Create an Agent Desktop Profile</p>
 <p><em>Reminder: If a setting is not listed in the task instructions,
 leave default settings or skip</em></p></th>
-</tr>
 <tr>
 <td><ul>
 <li><p>General</p>
@@ -40,7 +43,7 @@ leave default settings or skip</em></p></th>
 </ul></li>
 <li><p>Wrap-up Codes: all</p></li>
 <li><p>Idle Codes: All</p></li>
-<a href="https://help.webex.com/en-us/article/nvaf71f/Manage-desktop-profiles">Help Page</a>
+<a href="https://help.webex.com/en-us/article/nvaf71f/Manage-desktop-profiles" target="_blank">Help Page</a>
 </ul></li>
 </ul></th>
 <td><ul>
@@ -65,11 +68,11 @@ leave default settings or skip</em></p></th>
 <tbody>
 <tr>
 <td rowspan="3">2.</td>
-<td colspan="2"><span style="color: greenyellow;">Contact Center-&gt; User Management-&gt; Contact Center
-Users-&gt; Select User</td></span>
+<th colspan="2"><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Contact Center
+Users-&gt; Select User</th></span>
 </tr>
 <tr>
-<td colspan="2"><span style="color: Cyan;"><p>Use Case: All configured profiles must be assigned to each
+<td colspan="2"><span style="color:#FF0099;"><p>Use Case: All configured profiles must be assigned to each
 agent for them to take effect.</p></span>
 <p>Assign all previously created profiles to the agents</p></td>
 </tr>
@@ -94,7 +97,7 @@ agent for them to take effect.</p></span>
 <li><p>Desktop Profile: Company Desktop Profile</p></li>
 <li><p>Multimedia Profile: Agent MMP</p></li>
 <li><p>Skill Profile: Relevant named profile</p></li>
-<a href="https://help.webex.com/en-us/article/n524f2m/Manage-user-profiles-of-contact-center-users-in-Webex-Contact-Center">Help Page</a>
+<a href="https://help.webex.com/en-us/article/n524f2m/Manage-user-profiles-of-contact-center-users-in-Webex-Contact-Center" target="_blank">Help Page</a>
 </ul></li>
 </ul></td>
 <td><ul>

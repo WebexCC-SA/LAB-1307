@@ -4,6 +4,10 @@ receive a chat on an Agent Desktop
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
+[Click Here to see the Presentation](./Lab8.html){:target="_blank"}
+
+Instructions:
+
 <table>
 <colgroup>
 <col style="width: 4%" />
@@ -12,11 +16,11 @@ provided credentials
 <thead>
 <tr>
 <th rowspan="2">1.</th>
-<td><span style="color: greenyellow;">Contact Center-&gt; Overview-&gt; Webex Engage-&gt; Assets-&gt;
+<th><span style="color:#00CC66;">Contact Center-&gt; Overview-&gt; Webex Engage-&gt; Assets-&gt;
 Channel Assets-&gt;Websites</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: Customer wants to make the chat template look good</p></span>
+<td><span style="color:#FF0099;"><p>Use Case: Customer wants to make the chat template look good</p></span>
 <p>Edit the Chat Asset</p>
 <ul>
 <li><p>Add Website</p></li>
@@ -44,18 +48,18 @@ href="http://www.w3schools.com">www.w3schools.com</a></p></li>
 </ul>
 <li><p>Select Installation</p></li>
 <li><p>Copy then save installation code</p></li>
-<a href="https://help.webex.com/en-us/article/otcepj/Webex-Engage-Admin-and-Setup-Guide">Help Page</a>
+<a href="https://help.webex.com/en-us/article/otcepj/Webex-Engage-Admin-and-Setup-Guide" target="_blank">Help Page</a>
 </ul></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td rowspan="2">2.</td>
-<td><span style="color: greenyellow;">Contact Center-&gt; Overview-&gt; Webex Connect-&gt; My First
-Service-&gt; Flows</td></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Overview-&gt; Webex Connect-&gt; My First
+Service-&gt; Flows</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: Customer wants to receive chats into the Contact Center</p></span>
+<td><span style="color:#FF0099;"><p>Use Case: Customer wants to receive chats into the Contact Center</p></span>
 <p>Create a new Chat Flow</p>
 <ul>
 <li><p>Flow Name: Chat inbound</p></li>
@@ -96,10 +100,10 @@ href="http://www.w3schools.com">www.w3schools.com</a></p></li>
 </tr>
 <tr>
 <td rowspan="2">3.</td>
-<td><span style="color: greenyellow;">Control Hub-&gt; Management-&gt; Users</td></span>
+<th><span style="color:#00CC66;">Control Hub-&gt; Management-&gt; Users</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: Agent needs login credentials to receive chats</p></span>
+<td><span style="color:#FF0099;"><p>Use Case: Agent needs login credentials to receive chats</p></span>
 <p>Copy details to use</p>
 <ul>
 <li><p>Name: Eric Steele (Overseas Team)</p></li>
@@ -114,10 +118,10 @@ href="https://desktop.wxcc-us1.cisco.com/">https://desktop.wxcc-us1.cisco.com/</
 </tr>
 <tr>
 <td rowspan="2">4.</td>
-<td><span style="color: greenyellow;">New Tab in Browser-&gt; www.w3schools.com</td></span>
+<th><span style="color:#00CC66;">New Tab in Browser-&gt; www.w3schools.com</th></span>
 </tr>
 <tr>
-<td><span style="color: Cyan;"><p>Use Case: We need a way of simulating the customer website</p></span>
+<td><span style="color:#FF0099;"><p>Use Case: We need a way of simulating the customer website</p></span>
 <p>HTML – Try it Yourself</p>
 <ul>
 <li><p>Paste copied installation code between &lt;p&gt;This is a
