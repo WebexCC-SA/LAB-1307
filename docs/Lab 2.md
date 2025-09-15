@@ -80,9 +80,7 @@ Layouts</th></span>
 <li><p>Look for Agent:</p></li>
   <p>"DesktopChatApp" {</p></li>
   <p>"webexconfigured":</p></li>
-
-  <img src="./Json.png">
-  
+<a href="https://webexcc-sa.github.io/LAB-1307/assets/Lab2/Json.jpeg" target="_blank">Reference Image</a>
   <li><p>Change false to true</p></li>
 <li><p>Repeat for Supervisor (further down the file)</p></li>
 </li>
