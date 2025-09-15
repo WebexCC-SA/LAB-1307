@@ -81,7 +81,7 @@ Layouts</th></span>
   <p>"DesktopChatApp" {</p></li>
   <p>"webexconfigured":</p></li>
 
-  <img src="/Json.png">
+  <img src="./Json.png">
   
   <li><p>Change false to true</p></li>
 <li><p>Repeat for Supervisor (further down the file)</p></li>
