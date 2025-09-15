@@ -31,8 +31,8 @@ set hours</p></span>
 <li><p>Add new override</p>
 <ul>
 <li><p>Name: Emergency</p></li>
-<li><p>Do NOT enable</p></li>
 <li><p>Date range: Today’s date - 12/25/2025</p></li>
+<li><p>Do NOT enable</p></li>
 </ul></li>
 </ul></li>
 <li><p>Holiday Lists</p>
@@ -45,6 +45,8 @@ set hours</p></span>
 <li><p>Holiday Number 2: Birthday</p>
 <ul>
 <li><p>Your 2026 birthday date (Hint – type the date in)</p></li>
+<li><p><em>Reminder: If a setting is not listed in the task instructions,
+leave default settings or skip</em></p></li>
 </ul></li>
 </ul></li>
 <li><p>Working Hours</p>
@@ -82,7 +84,7 @@ ensure customer inquiries are routed to the appropriate team.</p></span>
 <li><p>Skills-based routing: Enable</p></li>
 <li><p>Skill assignment type: Assign skills in flows</p></li>
 <li><p>Routing Pattern: Best Available Agent</p></li>
-<li><p>Call Distribution: Group</p>
+<li><p>Call Distribution: Create Group</p>
 <ul>
 <li><p>Priority 1: Company and Overseas teams</p></li>
 </ul></li>
@@ -102,7 +104,7 @@ ensure customer inquiries are routed to the appropriate team.</p></span>
 <li><p>Contact Routing Settings</p>
 <ul>
 <li><p>Agent Assignment: Teams</p></li>
-<li><p>Call Distribution: Group</p></li>
+<li><p>Call Distribution: Create Group</p></li>
 <li><p>Priority 1: Sales team</p></li>
 </ul></li>
 <li><p>Advanced settings</p>

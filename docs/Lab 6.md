@@ -26,7 +26,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <ul>
 <li><p>Name: Main Number</p>
 <ul>
-<li><p>Type: Inbound Telephony</p></li>
+<li><p>Channel Type: Inbound Telephony</p></li>
 <li><p>Service Level: 120</p></li>
 <li><p>Timezone: NewYork</p></li>
 <li><p>Routing Flow: Company FLow</p></li>
@@ -34,7 +34,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Music On Hold: Default Music on Hold.wav</p></li>
 <li><p>Support Number:</p>
 <ul>
-<li><p>Location: dCloud</p></li>
+<li><p>Webex Calling Location: dCloud</p></li>
 <li><p>Number: Any (Make a note of this number for later!)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
@@ -53,7 +53,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <ul>
 <li><p>Name: Overseas Number</p>
 <ul>
-<li><p>Type: Inbound Telephony</p></li>
+<li><p>Channel Type: Inbound Telephony</p></li>
 <li><p>Service Level: 120</p></li>
 <li><p>Timezone: NewYork</p></li>
 <li><p>Routing Flow: Overseas FLow</p></li>
@@ -61,7 +61,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Music On Hold: Default Music on Hold.wav</p></li>
 <li><p>Support Number:</p>
 <ul>
-<li><p>Location: dCloud</p></li>
+<li><p>Webex Calling Location: dCloud</p></li>
 <li><p>Number: Any (Make a note of this number for later)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
@@ -78,7 +78,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <ul>
 <li><p>Name: Sales Number</p>
 <ul>
-<li><p>Type: Inbound Telephony</p></li>
+<li><p>Channel Type: Inbound Telephony</p></li>
 <li><p>Service Level: 120</p></li>
 <li><p>Timezone: NewYork</p></li>
 <li><p>Routing Flow: Sales FLow</p></li>
@@ -86,7 +86,7 @@ created to connect incoming calls to the appropriate flows</p></span>
 <li><p>Music On Hold: Default Music on Hold.wav</p></li>
 <li><p>Support Number:</p>
 <ul>
-<li><p>Location: dCloud</p></li>
+<li><p>Webex Calling Location: dCloud</p></li>
 <li><p>Number: Any (Make a note of this number for later)</p></li>
 <li><p>PSTN Region Default</p></li>
 </ul></li>
@@ -110,7 +110,7 @@ href="https://desktop.wxcc-us1.cisco.com/">https://desktop.wxcc-us1.cisco.com/</
 <ul>
 <li><p>Password is the same as Charles Holland (admin account)</p></li>
 </ul></li>
-<li><p>Use Desktop for Audio / Calls</p></li>
+<li><p>Handle Calls using: Desktop</p></li>
 </ul></li>
 <li><p>Call the appropriate phone numbers you select above from your
 cell or other phone</p></li>

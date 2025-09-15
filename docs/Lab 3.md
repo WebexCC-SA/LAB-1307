@@ -78,20 +78,27 @@ agent for them to take effect.</p></span>
 </tr>
 <tr>
 <td><ul>
-<li><p>User: Anita Perez</p>
-<ul>
+<p>User: Anita Perez</p>
 <li><p>User Profile: Supervisor</p></li>
 <li><p>Contact Center: enable</p></li>
+<ul>
+<li><p>Supervisor Settings:</p></li>
+<ul>
 <li><p>Primary Team – None</p></li>
+</ul>
+<li><p>Agent Settings:</p></li>
+<ul>
 <li><p>Site: Company</p></li>
 <li><p>Teams: Company, Support, Overseas and Sales Teams</p></li>
 <li><p>Desktop Profile: Company Desktop Profile</p></li>
 <li><p>Multimedia Profile: Agent MMP</p></li>
 <li><p>Skill Profile: Anita Perez</p></li>
+</ul>
 </ul></li>
-<li><p>Users: Eric Steele, Kellie Melby and Rebekah Barretta</p>
+<p>Users: Eric Steele, Kellie Melby</p>
 <ul>
 <li><p>Contact Center: enable</p></li>
+<ul>
 <li><p>Site: Company</p></li>
 <li><p>Teams: Overseas Team</p></li>
 <li><p>Desktop Profile: Company Desktop Profile</p></li>
@@ -101,23 +108,24 @@ agent for them to take effect.</p></span>
 </ul></li>
 </ul></td>
 <td><ul>
-<li><p>Users: Rebekah Barretta and Ricardo Filice</p>
+<p>Users: Rebekah Barretta and Ricardo Filice</p>
 <ul>
 <li><p>Contact Center: enable</p></li>
+<ul>
 <li><p>Site: Company</p></li>
 <li><p>Teams: Company Team</p></li>
 <li><p>Desktop Profile: Company Desktop Profile</p></li>
 <li><p>Multimedia Profile: Agent MMP</p></li>
 <li><p>Skill Profile: relevant named profile</p></li>
 </ul></li>
-<li><p>Users: Stefan Mauk and Taylor Bard</p>
+<p>Users: Stefan Mauk and Taylor Bard</p>
 <ul>
 <li><p>Contact Center: enable</p></li>
+<ul>
 <li><p>Site: Company</p></li>
 <li><p>Teams: Sales Team</p></li>
 <li><p>Desktop Profile: Company Desktop Profile</p></li>
 <li><p>Multimedia Profile: Agent MMP</p></li>
-<li><p>Skill Profile: Relevant named profile</p></li>
 </ul></li>
 </ul></td>
 </tr>

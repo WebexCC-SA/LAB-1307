@@ -15,7 +15,7 @@ Instructions:
 <thead>
 <tr>
 <th rowspan="2">1.a.</th>
-<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows</th></span>
+<th><span style="color:#00CC66;">Contact Center-&gt; Customer Experience-&gt; Flows-&gt; Manage Flows-&gt; Create Flows-&gt; Start Fresh</th></span>
 </tr>
 <tr>
 <td><span style="color:#FF0099;"><p>Use Case: Each queue needs a specific flow to tailor the customer
@@ -49,14 +49,14 @@ processes</p></span>
 <tbody>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Business Hours</th></span>
-<td colspan="2">Title: Business Hours</td>
+<td colspan="2">Activity Label: BusinessHours</td>
 </tr>
 <tr>
 <td colspan="2">Static Business Hours: Work Week</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Play Message</th></span>
-<td colspan="2">Title: Welcome</td>
+<td colspan="2">Activity Label: Welcome</td>
 </tr>
 <tr>
 <td><p>Audio: Enable TTS (Text To Speech)</p>
@@ -65,7 +65,7 @@ processes</p></span>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Menu</th></span>
-<td colspan="2">Title: Menu 1</td>
+<td colspan="2">Activity Label: Menu1</td>
 </tr>
 <tr>
 <td><p>Audio: Enable TTS (Text To Speech)</p>
@@ -73,13 +73,13 @@ processes</p></span>
 <p>Text: For support, please press 1, for service please press
 2</p></td>
 <td><p>Make Prompt interruptible: Enable</p>
-<p>Make two Menu Links 1 and 2</p>
-<p>1 = Support</p>
-<p>2 = Service</p></td>
+<p>Custom Menu Links:</p>
+<p>Digit Number 1 = Support</p>
+<p>Digit Number 2 = Service</p></td>
 </tr>
 <tr>
 <th><span style="color:#FF9900;">Menu</th></span>
-<td colspan="2">Title: Menu 2</td>
+<td colspan="2">Activity Label: Menu2</td>
 </tr>
 <tr>
 <td></td>
@@ -88,58 +88,67 @@ processes</p></span>
 <p>Text: For additions press 1, for moves press 2 and for configuration
 press 3.</p></td>
 <td><p>Make Prompt interruptible: Enable</p>
-<p>Make two Menu Links 1 and 2</p>
-<p>1 = Adds</p>
-<p>2 = Moves</p>
-<p>3 = Changes</p></td>
+<p>Custom Menu Links:</p>
+<p>Digit Number 1 = Adds</p>
+<p>Digit Number 2 = Moves</p>
+<p>Digit Number 3 = Changes</p></td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
-<td colspan="2">Title: ToVmail</td>
+<td colspan="2">Activity Label: ToVmail</td>
 </tr>
 <tr>
-<td colspan="2">Specific Number to Dial: 5000</td>
+<td colspan="2">Specific Dial Number: 5000</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
-<td colspan="2">Title: SupportQ</td>
+<td colspan="2">Activity Label: SupportQ</td>
 </tr>
 <tr>
 <td><p>Static Queue: Support Q</p>
-<p>Set contact Priority: Value = 5</p></td>
-<td>Skill: Support is True</td>
+<p>Set Contact Priority:
+Enable</p>
+<p>Set Contact Priority: Value = 5</p></td>
+<td><p>Add Static Skill: Support</p>
+<p>Value: is True<p></td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
-<td colspan="2">Title: AddQ</td>
+<td colspan="2">Activity Label: AddQ</td>
 </tr>
 <tr>
 <td>Static Queue: Support Q</td>
-<td>Skill: Add is True</td>
+<td><p>Add Static Skill: Adds</p>
+<p>Value: is True<p></td>
+</tr>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
-<td colspan="2">Title: Move Q</td>
+<td colspan="2">Activity Label: MoveQ</td>
 </tr>
 <tr>
 <td>Static Queue: Support Q</td>
-<td>Skill: Move is True</td>
+<td><p>Add Static Skill: Moves</p>
+<p>Value: is True<p></td>
+</tr>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
-<td colspan="2">Title: Changes Q</td>
+<td colspan="2">Activity Label: ChangesQ</td>
 </tr>
 <tr>
 <td>Static Queue: Support Q</td>
-<td>Skill: Changes &gt;= 4</td>
+<td><p>Add Static Skill: Changes</p>
+<p>Value: >= 4<p></td>
+</tr>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Play Music</th></span>
-<td colspan="2">Title: PlayMusic</td>
+<td colspan="2">Activity Label: PlayMusic</td>
 </tr>
 <tr>
-<td>Audio File: defaultmusic_on_hold_cisco_opus_no_1.wav</td>
-<td><p>Offset = 0</p>
+<td>Static Audio File: defaultmusic_on_hold_cisco_opus_no_1.wav</td>
+<td><p>Start Offset = 0</p>
 <p>Music Duration: 3600</p></td>
 </tr>
 </tbody>
@@ -248,14 +257,14 @@ press 3.</p></td>
 <tbody>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Business Hours</th></span>
-<td colspan="2">Title: Business Hours</td>
+<td colspan="2">Activity Label: BusinessHours</td>
 </tr>
 <tr>
 <td colspan="2">Static Business Hours: Work Week</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Play Message</th></span>
-<td colspan="2">Title: Welcome</td>
+<td colspan="2">Activity Label: Welcome</td>
 </tr>
 <tr>
 <td><p>Audio: Enable TTS (Text To Speech)</p>
@@ -265,14 +274,14 @@ Please hold and we will be with you shortly.</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
-<td colspan="2">Title: ToVmail</td>
+<td colspan="2">Activity Label: ToVmail</td>
 </tr>
 <tr>
 <td colspan="2">Specific Number to Dial: 5000</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Play Music</th></span>
-<td colspan="2">Title: PlayMusic</td>
+<td colspan="2">Activity Label: PlayMusic</td>
 </tr>
 <tr>
 <td>Audio File: defaultmusic_on_hold_cisco_opus_no_1.wav</td>
@@ -371,14 +380,14 @@ Please hold and we will be with you shortly.</td>
 <tbody>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Business Hours</th></span>
-<td colspan="3">Title: Business Hours</td>
+<td colspan="3">Activity Label: BusinessHours</td>
 </tr>
 <tr>
 <td colspan="3">Static Business Hours: Work Week</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Play Message</th></span>
-<td colspan="3">Title: Welcome</td>
+<td colspan="3">Activity Label: Welcome</td>
 </tr>
 <tr>
 <td colspan="2"><p>Audio: Enable TTS (Text To Speech)</p>
@@ -388,14 +397,14 @@ We will be with you shortly</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
-<td colspan="3">Title: ToVmail</td>
+<td colspan="3">Activity Label: ToVmail</td>
 </tr>
 <tr>
 <td colspan="3">Specific Number to Dial: 5000</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Queue Contact</th></span>
-<td colspan="3">Title: SalesQ</td>
+<td colspan="3">Activity Label: SalesQ</td>
 </tr>
 <tr>
 <td>Static Queue: Sales Q</td>
@@ -403,7 +412,7 @@ We will be with you shortly</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Play Music</th></span>
-<td colspan="3">Title: PlayMusic</td>
+<td colspan="3">Activity Label: PlayMusic</td>
 </tr>
 <tr>
 <td colspan="2">Audio File:
@@ -413,7 +422,7 @@ defaultmusic_on_hold_cisco_opus_no_1.wav</td>
 </tr>
 <tr>
 <th rowspan="2"><span style="color:#FF9900;">Blind Transfer</th></span>
-<td colspan="3">Title: ToVmail</td>
+<td colspan="3">Activity Label: ToVmail</td>
 </tr>
 <tr>
 <td colspan="3">Specific Number to Dial: 5000</td>

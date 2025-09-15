@@ -108,8 +108,8 @@ numbers they call on a regular basis</p></span>
 <li><p>Site: Company HQ</p></li>
 <li><p>Entry List</p>
 <ul>
-<li><p>Name: Joes Pizza</p></li>
-<li><p>Contact Number: 2406568923</p></li>
+<li><p>Name: Cisco TAC</p></li>
+<li><p>Contact Number: 8005532447</p></li>
 </ul></li>
 <a href="https://help.webex.com/en-us/">Help Page</a>
 </ul></td>
@@ -129,17 +129,24 @@ be categorized and tracked for reporting and analysis</p></span>
 <ul>
 <li><p>Make it default: enable</p></li>
 <li><p>Code type: Default Wrap-up Work Type</p>
+</ul>
 <p>Name: Service</p></li>
+<ul>
 <li><p>Code type: Default Wrap-up Work Type</p></li>
+</ul>
 <a href="https://help.webex.com/en-us/">Help Page</a>
 </ul></td>
 <td><p>Name: Sales</p>
 <ul>
 <li><p>Code type: Default Wrap-up Work Type</p>
+</ul>
 <p>Name: Administration Time</p></li>
+<ul>
 <li><p>Make it default: enable</p></li>
 <li><p>Code type: Default Idle Work Type</p>
+</ul>
 <p>Name: Break</p></li>
+<ul>
 <li><p>Code type: Default Idle Work Type</p></li>
 </ul></td>
 </tr>
