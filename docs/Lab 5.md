@@ -3,7 +3,7 @@ In this lab, you will learn how to create flows for queues.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
-[Click Here to see the Presentation](./Lab5.html){:target="_blank"}
+[Click here to see the presentation](./Lab5.html){:target="_blank"}
 
 Instructions:
 

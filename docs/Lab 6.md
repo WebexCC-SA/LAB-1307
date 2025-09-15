@@ -4,7 +4,7 @@ receive a call on an Agent Desktop.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
-[Click Here to see the Presentation](./Lab6.html){:target="_blank"}
+[Click here to see the presentation](./Lab6.html){:target="_blank"}
 
 Instructions:
 

@@ -4,7 +4,7 @@ Address Books and Auxiliary Codes.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
-[Click Here to see the Presentation](./Lab2.html){:target="_blank"}
+[Click here to see the presentation](./Lab2.html){:target="_blank"}
 
 Instructions:
 
@@ -77,8 +77,13 @@ Layouts</th></span>
 <li><p>JSON File: Download the default desktop layout</p>
 <ul>
 <li><p>Open the file with a text editor</p>
-<li><p>Find: Agent-&gt; DesktopChatApp-&gt;Webexconfigured, change false
-to true</p></li>
+<li><p>Look for Agent:</p></li>
+  <p>"DesktopChatApp" {</p></li>
+  <p>"webexconfigured":</p></li>
+
+  <img src="/Json.png">
+  
+  <li><p>Change false to true</p></li>
 <li><p>Repeat for Supervisor (further down the file)</p></li>
 </li>
 <li><p>Save the file as CompanyDesktopLayout.json</p></li>

@@ -4,7 +4,7 @@ Point / Channel
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
-[Click Here to see the Presentation](./Lab7.html){:target="_blank"}
+[Click here to see the presentation](./Lab7.html){:target="_blank"}
 
 Instructions:
 

@@ -6,7 +6,7 @@ URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
 
-  [Click Here to see the Presentation](./Lab1.html){:target="_blank"}
+  [Click here to see the presentation](./Lab1.html){:target="_blank"}
 
 Instructions:
 <table>
@@ -67,7 +67,7 @@ users.</p></li>
 <li>Skill Type: Boolean</li>
 </ul>
 </ul>
-<li>Skill Name: Changes</li>
+<li>Skill Name: Support</li>
 <ul>
 <li>Skill Type: Boolean</li>
 </ul>
@@ -81,7 +81,7 @@ users.</p></li>
 </tr>
 <tr>
 <td rowspan="2">4.</td>
-<th><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Skill Profiles,</span></th>
+<th><span style="color:#00CC66;">Contact Center-&gt; User Management-&gt; Skill Profiles</span></th>
 </tr>
 <tr>
 <td><p><span style="color:#FF0099;">Use Case: Each agent has a unique set of skills that helps determine how calls are routed to them</span></p>

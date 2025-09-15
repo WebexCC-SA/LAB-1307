@@ -4,7 +4,7 @@ all profiles to an Agent/Supervisor.
 URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
 provided credentials
 
-[Click Here to see the Presentation](./Lab3.html){:target="_blank"}
+[Click here to see the presentation](./Lab3.html){:target="_blank"}
 
 Instructions:
 

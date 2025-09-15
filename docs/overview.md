@@ -10,7 +10,7 @@ By the end of the lab, participants will:  
 
 3. Tailor the deployment to meet the needs of different personas and organizational roles.   
 
-## Learning deliverables
+## Learning Deliverables
 
 Participants will leave the lab with:   
 
@@ -23,6 +23,8 @@ Participants will leave the lab with:  
 ## Lab Access
 
 Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.com/login)
+
+INSERT LINK TO LOGINS HERE!!!
 
 Login using the user account associated with your student number. Your student number will be provided by your instructor.
 
