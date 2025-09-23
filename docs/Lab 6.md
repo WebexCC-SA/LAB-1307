@@ -1,7 +1,7 @@
 In this lab, you will learn how to connect calls to the flow and to
 receive a call on an Agent Desktop.
 
-URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
+URL: [admin.webex.com](http://admin.webex.com/){:target="_blank"} Login: Instructor
 provided credentials
 
 [Click here to see the presentation](./Lab6.html){:target="_blank"}

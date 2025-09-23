@@ -2,7 +2,7 @@ In this lab, you will log in to Control Hub (CH) and learn how to assign
 Webex Contact Center Licenses. Then you will create Skill Definitions,
 Skill Profiles and Multimedia Profiles
 
-URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
+URL: [admin.webex.com](http://admin.webex.com/){:target="_blank"} Login: Instructor
 provided credentials
 
 

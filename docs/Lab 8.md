@@ -1,7 +1,7 @@
 In this lab, you will learn how to connect chats to a flow and to
 receive a chat on an Agent Desktop
 
-URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
+URL: [admin.webex.com](http://admin.webex.com/){:target="_blank"} Login: Instructor
 provided credentials
 
 [Click here to see the presentation](./Lab8.html){:target="_blank"}
@@ -17,13 +17,13 @@ Instructions:
 <tr>
 <th rowspan="2">1.</th>
 <th><span style="color:#00CC66;">Contact Center-&gt; Overview-&gt; Webex Engage-&gt; Assets-&gt;
-Channel Assets-&gt;Websites</th></span>
+Channel Assets</th></span>
 </tr>
 <tr>
 <td><span style="color:#FF0099;"><p>Use Case: Customer wants to make the chat template look good</p></span>
 <p>Edit the Chat Asset</p>
 <ul>
-<li><p>Add Website</p></li>
+<li><p>Edit the asset and add a Website</p></li>
 <li><p>Display Name: Global Support Solutions</p></li>
 <li><p>Byline Text: This is the future!</p></li>
 <li><p>Greeting message: Please Click to initiate a Chat with
@@ -63,14 +63,22 @@ Service-&gt; Flows</th></span>
 <p>Create a new Chat Flow</p>
 <ul>
 <li><p>Flow Name: Chat inbound</p></li>
+<a href="https://webexcc-sa.github.io/LAB-1307/assets/Lab8/LiveChatInboundFlowWithoutForm" target="_blank">Download form here</a>
 <li><p>Upload: LiveChatInboundFlowWithoutForm</p></li>
 <li><p>Save the Configure APP Event</p></li>
 <ul>
 </ul>
+</ul>
+<p> IMPORTANT: All nodes will need double clicking to enter them.<p>
+<ul>
 <li><p>Resolve Conversation node</p></li>
 <li><p>Authorize with Cholland after screen fully loads</p></li>
 <li><p>Add Flow ID: All numbers at the end of URL in your tab, after the
 equals sign</p></li>
+<p> Example - If your URL is: https://
+holdpleaseinc.us.webexconnect.io/flowdesigner/flow/v3/
+flowView?flowId=70324</p>
+<p> Enter: 70324</p>
 <li><p>Save</p></li>
 <ul>
 </ul>
@@ -85,7 +93,7 @@ equals sign</p></li>
 <li><p>Save</p></li>
 <ul>
 </ul>
-<li><p>Setting Gear Icon:</p></li>
+<li><p>Setting Gear Icon: (Top right of Page)</p></li>
 <li><p>General: Disable descriptive logs</p></li>
 <li><p>Select: Custom Variables</p></li>
 <li><p>Live Chat Domian: <a

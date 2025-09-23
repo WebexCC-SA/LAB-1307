@@ -22,9 +22,9 @@ Participants will leave the lab with:  
 
 ## Lab Access
 
-Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.com/login)
+Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.com/login){:target="_blank"}
 
-INSERT LINK TO LOGINS HERE!!!
+[Click here to login credentials](./assets/Logo.png){:target="_blank"}
 
 Login using the user account associated with your student number. Your student number will be provided by your instructor.
 
@@ -134,7 +134,3 @@ Company Profile
         * 6 Agents 
 
     * Licenses for the Supervisor and Agents remain to be assigned
-
-## Resources
-
-Add this after lab guide is fully uploaded.

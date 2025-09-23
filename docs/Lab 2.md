@@ -1,7 +1,7 @@
 In this lab, you will learn how to create Sites, Teams, Desktop Layouts,
 Address Books and Auxiliary Codes.
 
-URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
+URL: [admin.webex.com](http://admin.webex.com/){:target="_blank"} Login: Instructor
 provided credentials
 
 [Click here to see the presentation](./Lab2.html){:target="_blank"}

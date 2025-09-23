@@ -1,6 +1,6 @@
 In this lab, you will learn how to create Queues and Business Hours.
 
-URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
+URL: [admin.webex.com](http://admin.webex.com/){:target="_blank"} Login: Instructor
 provided credentials
 
 [Click here to see the presentation](./Lab4.html){:target="_blank"}

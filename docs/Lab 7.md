@@ -1,7 +1,7 @@
 In this lab, you will learn how to create a Chat Queue, Asset and Entry
 Point / Channel
 
-URL: [admin.webex.com](http://admin.webex.com/) Login: Instructor
+URL: [admin.webex.com](http://admin.webex.com/){:target="_blank"} Login: Instructor
 provided credentials
 
 [Click here to see the presentation](./Lab7.html){:target="_blank"}
@@ -25,9 +25,13 @@ Integrations</th></span>
 <ul>
 <li><p>Webex CC Tasks: Manage</p>
 <ul>
+<ul>
+<li><p>Actions: Manage</p>
+<ul>
 <li><p>Add Authentication: Cholland email</p></li>
 <li><p>Sign in as Cholland in the popup window</p></li>
 </ul></li>
+</ul>
 <li><p>Webex CC Engage: Manage</p>
 <ul>
 <li><p>Add Authentication: Cholland email</p></li>
@@ -46,12 +50,12 @@ Apps</th></span>
 <td><p><span style="color:#FF0099;">Use Case: Customer needs an ability to route chats.</p></span>
 <p>Create a Chat Asset</p>
 <ul>
-<li><p>New App: Mobile/Web</p></li>
+<li><p>Configure New App: Mobile/Web</p></li>
 <li><p>Name: Chat_Asset</p></li>
 <li><p>Live Chat/ In-App Messaging: enable</p></li>
 <li><p>Primary Protocol: MQTT</p></li>
 <li><p>Secondary Protocol: Web Socket</p></li>
-<li><p>Use a Secure Port: Tick</p>
+<li><p>Use a Secure Port: Enable</p>
 </ul>
 <p>Once Saved</p></li>
 </ul>
@@ -72,7 +76,7 @@ Apps</th></span>
 <li><p>Queue Name: Chat Q</p></li>
 <li><p>Channel Type: Chat</p></li>
 <li><p>Routing Type: Longest Available Agent</p></li>
-<li><p>Call Distribution:</p>
+<li><p>Chat Distribution:</p>
 <ul>
 <li><p>Priority 1 – Company, Overseas and Sales teams</p></li>
 </ul></li>
@@ -87,10 +91,10 @@ Apps</th></span>
 </tr>
 <tr>
 <td><p><span style="color:#FF0099;">Use Case: Customer wants to receive chats into the Contact Center</p></span>
-<p>Create a Channel Entry Point</p>
+<p>Create a Channel</p>
 <ul>
 <li><p>Name: Chat Entry</p></li>
-<li><p>Type: Chat</p></li>
+<li><p>Channel Type: Chat</p></li>
 <li><p>Asset Name: Chat_Asset</p></li>
 <li><p>Service Level: 7200</p></li>
 <li><p>Timezone: NewYork</p></li>
