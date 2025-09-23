@@ -63,7 +63,7 @@ Service-&gt; Flows</th></span>
 <p>Create a new Chat Flow</p>
 <ul>
 <li><p>Flow Name: Chat inbound</p></li>
-<a href="https://webexcc-sa.github.io/LAB-1307/assets/Lab8Livechat.zip" target="_blank">Download form here</a>
+<a href="https://webexcc-sa.github.io/LAB-1307/assets/Lab8/Livechat.zip" target="_blank">Download form here</a>
 <li><p>Upload: LiveChatInboundFlowWithoutForm</p></li>
 <li><p>Save the Configure APP Event</p></li>
 <ul>
