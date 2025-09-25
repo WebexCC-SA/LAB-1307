@@ -24,7 +24,7 @@ Participants will leave the lab with:  
 
 Open Chrome, Firefox, or Edge and browse to [Control Hub](https://admin.webex.com/login){:target="_blank"}
 
-[Click here to login credentials](./assets/Logo.png){:target="_blank"}
+[Click here to login credentials](./assets/LoginWx1.xlsx){:target="_blank"}
 
 Login using the user account associated with your student number. Your student number will be provided by your instructor.
 
